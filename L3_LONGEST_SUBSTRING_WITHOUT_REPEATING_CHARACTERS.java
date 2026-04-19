@@ -1,6 +1,6 @@
 import java.util.*;
 
-class L3_LONGEST_SUBSTRING_WIIHTOUT_REPEATING_CHARACTERS {
+class L3_LONGEST_SUBSTRING_WITHOUT_REPEATING_CHARACTERS {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
