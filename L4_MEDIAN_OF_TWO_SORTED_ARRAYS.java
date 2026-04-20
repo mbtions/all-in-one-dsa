@@ -38,7 +38,6 @@ class L4_MEDIAN_OF_TWO_SORTED_ARRAYS {
             } else if (j != nums2.length) {
                 nums3[k] = nums2[j++];
             }
-            System.out.print(nums3[k] + " ");
             k++;
         }
 
