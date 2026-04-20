@@ -32,7 +32,7 @@ Link to the HandWritten NoteBook: [VISIT HERE](https://1drv.ms/o/c/5547ddc598b5e
     <td>4</td>
     <td>Median of Two Sorted Arrays</td>
     <td>Hard</td>
-    <td><a href="httpshttps://leetcode.com/problems/median-of-two-sorted-arrays/">Link</a></td>
+    <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Link</a></td>
 </tr>
 </tbody>
 </table>
