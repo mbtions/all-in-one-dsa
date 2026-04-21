@@ -34,5 +34,12 @@ Link to the HandWritten NoteBook: [VISIT HERE](https://1drv.ms/o/c/5547ddc598b5e
     <td>Hard</td>
     <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Link</a></td>
 </tr>
+
+<tr>
+    <td>5</td>
+    <td>Longest Palindromic Substring</td>
+    <td>Medium</td>
+    <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Link</a></td>
+</tr>
 </tbody>
 </table>
