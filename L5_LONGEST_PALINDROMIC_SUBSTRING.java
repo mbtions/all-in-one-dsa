@@ -28,6 +28,17 @@ class L5_LONGEST_PALINDROMIC_SUBSTRING {
         return s2.toString();
     }
 
+    public static String longestPalindromeOPT(String s) {
+        if (s.length() == 0 || s.length() == 1 || isPalindrome(s, 0, s.length() - 1))
+            return s;
+        String s2 = s.substring(0, 1);
+        // ...
+        // Code to be written later
+        // after proper brainstorming
+        // ...
+        return s2;
+    }
+
     public static boolean isPalindrome(String s, int start, int end) {
         while (start < end) {
             if (s.charAt(start) != s.charAt(end)) {
