@@ -33,8 +33,8 @@ class L5_LONGEST_PALINDROMIC_SUBSTRING {
             return s;
         String s2 = s.substring(0, 1);
         // ...
-        // Code to be written later
-        // after proper brainstorming
+        // TO DO: add the code for optimal solution
+        // HINT: Use Dynamic Programming Approach
         // ...
         return s2;
     }
