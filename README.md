@@ -48,5 +48,19 @@ Link to the HandWritten NoteBook: [VISIT HERE](https://1drv.ms/o/c/5547ddc598b5e
     <td style="color: orange">Medium</td>
     <td><a href="https://leetcode.com/problems/zigzag-conversion/">Link</a></td>
 </tr>
+
+<tr>
+    <td>7</td>
+    <td>Reverse Integer</td>
+    <td style="color: orange">Medium</td>
+    <td><a href="https://leetcode.com/problems/reverse-integer/">Link</a></td>
+</tr>
+
+<tr>
+    <td>8</td>
+    <td>String to Integer (atoi)</td>
+    <td style="color: orange">Medium</td>
+    <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">Link</td>
+</tr>
 </tbody>
 </table>
