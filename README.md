@@ -94,7 +94,7 @@ Link to the HandWritten NoteBook: [VISIT HERE](https://1drv.ms/o/c/5547ddc598b5e
 <tr>
     <td>13</td>
     <td>Roman To Integer</td>
-    <td style="color:orange">Medium</td>
+    <td style="color:lightgreen">Easy</td>
     <td><a href="https://leetcode.com/problems/roman-to-integer/">Link</a></td>
 </tr>
 
