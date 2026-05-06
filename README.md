@@ -105,5 +105,12 @@ Link to the HandWritten NoteBook: [VISIT HERE](https://1drv.ms/o/c/5547ddc598b5e
     <td><a href="https://leetcode.com/problems/longest-common-prefix/">Link</a></td>
 </tr>
 
+<tr>
+    <td>15</td>
+    <td>3Sum</td>
+    <td style="color:orange">Medium</td>
+    <td><a href="https://leetcode.com/problems/3sum/">Link</a></td>
+</tr>
+
 </tbody>
 </table>
