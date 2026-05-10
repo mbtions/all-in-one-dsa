@@ -112,5 +112,12 @@ Link to the HandWritten NoteBook: [VISIT HERE](https://1drv.ms/o/c/5547ddc598b5e
     <td><a href="https://leetcode.com/problems/3sum/">Link</a></td>
 </tr>
 
+<tr>
+    <td>16</td>
+    <td>3Sum Closest</td>
+    <td style="color:orange">Medium</td>
+    <td><a href="https://leetcode.com/problems/3sum-closest/">Link</a></td>
+</tr>
+
 </tbody>
 </table>
