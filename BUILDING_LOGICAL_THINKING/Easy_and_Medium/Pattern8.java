@@ -2,6 +2,16 @@ package BUILDING_LOGICAL_THINKING.Easy_and_Medium;
 
 import java.util.Scanner;
 
+/**
+ * Pattern: Inverted Triangle, for n = 5
+ * 
+ * *********
+ * _*******
+ * __*****
+ * ___***
+ * ____*
+ */
+
 public class Pattern8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
