@@ -2,6 +2,21 @@ package BUILDING_LOGICAL_THINKING.Easy_and_Medium;
 
 import java.util.Scanner;
 
+/**
+ * The Diamond Pattern: for n = 5
+ * 
+ * ____*
+ * ___***
+ * __*****
+ * _*******
+ * *********
+ * *********
+ * _*******
+ * __*****
+ * ___***
+ * ____*
+ */
+
 public class Pattern9 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -15,7 +30,7 @@ public class Pattern9 {
 
         for (int i = 0; i < n * 2; i++) {
             int j = 1;
-            if (i < 5) {
+            if (i < n) {
                 // traingle
 
                 // spaces
@@ -41,9 +56,7 @@ public class Pattern9 {
                     System.out.print("*");
                 }
             }
-
             System.out.println();
-
         }
     }
 }
